@@ -1,6 +1,8 @@
 
 # Uber Fare Prediction
 
+**Live app:** https://uber-fares-dataset-uo85gdt34p8hgzaxvyoggz.streamlit.app/
+
 A Streamlit application that loads the Uber Fares dataset, performs data cleaning and feature engineering, trains regression models, and saves the best model as a pipeline for future predictions.
 
 ## Dataset
